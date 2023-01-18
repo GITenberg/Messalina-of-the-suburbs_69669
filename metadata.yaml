@@ -1,0 +1,33 @@
+_repo: Messalina-of-the-suburbs_69669
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Delafield, E. M.
+    aliases:
+    - De La Pasture, Edmée Elizabeth Monica
+    - Dashwood, Elizabeth M.
+    birthdate: 1890
+    deathdate: 1943
+    gutenberg_agent_id: '37324'
+    url: http://www.gutenberg.org/2009/agents/37324
+    wikipedia: https://en.wikipedia.org/wiki/E._M._Delafield
+description: ''
+gutenberg_issued: '2022-12-31'
+identifiers:
+  gutenberg: '69669'
+language: en
+pgterms:marc904: https://archive.org/details/messalinaofsubur00delauoft/page/n7
+pgterms:marc905: 20190110063314delafield
+pgterms:marc906: '1924'
+pgterms:marc907: GB
+production_note: Tim Lindell, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/Canadian Libraries)
+publication_note: 'United Kingdom: Hutchinson & Co,1924.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Messalina of the suburbs
+url: http://www.gutenberg.org/ebooks/69669
